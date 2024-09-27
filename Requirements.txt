@@ -1,0 +1,11 @@
+numpy==1.23.5
+pandas==2.1.0
+scikit-learn==1.3.0
+seaborn==0.12.2
+matplotlib==3.8.0
+
+
+You can generate the requirements.txt by
+
+
+pip freeze > requirements.txt
